@@ -1,9 +1,11 @@
-[00:05:15] [Server thread/INFO]: <Exws> 318 67 280
-[00:30:48] [Server thread/INFO]: xPurts has made the advancement [The Parrots and the Bats]
-[00:41:02] [Server thread/INFO]: RTRxRTR lost connection: Disconnected
-[00:41:02] [Server thread/INFO]: RTRxRTR left the game
-[00:41:08] [Server thread/INFO]: Exws lost connection: Disconnected
-[00:41:08] [Server thread/INFO]: Exws left the game
-[00:41:19] [Server thread/INFO]: xPurts lost connection: Disconnected
-[00:41:19] [Server thread/INFO]: xPurts left the game
-[00:42:19] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:02:02] [Server thread/INFO]: xPurts lost connection: Disconnected
+[00:02:02] [Server thread/INFO]: xPurts left the game
+[00:02:20] [User Authenticator #8/INFO]: UUID of player xPurts is 04cd1e9c-892c-4049-8862-32aa004129e3
+[00:02:20] [Server thread/INFO]: xPurts[/25.40.4.31:60026] logged in with entity id 51564 at (10.609880492468065, 71.0, 28.950747394676053)
+[00:02:20] [Server thread/INFO]: xPurts joined the game
+[00:02:44] [Server thread/INFO]: Exws lost connection: Disconnected
+[00:02:44] [Server thread/INFO]: Exws left the game
+[00:02:45] [Server thread/INFO]: xPurts lost connection: Disconnected
+[00:02:45] [Server thread/INFO]: xPurts left the game
+[00:02:45] [Server thread/INFO]: RTRxRTR lost connection: Disconnected
+[00:02:45] [Server thread/INFO]: RTRxRTR left the game
